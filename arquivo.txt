@@ -1,2 +1,3 @@
 Meu arquivo de texto
 ##Agora meu arquivo de texto foi modificado!
+Mais uma modificação!
